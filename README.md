@@ -62,7 +62,7 @@ The project covers every phase of the DevOps lifecycle:
 
 ### Expected Architecture Diagram
 
-![Expected Architecture](assets/the%20excpected%20architicure.png)
+![Expected Architecture](assets/the%20excpected%20architicure.webp)
 
 ### Actual CI/CD Pipeline Flow (As Implemented)
 
