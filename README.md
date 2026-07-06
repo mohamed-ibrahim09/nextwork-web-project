@@ -10,7 +10,7 @@ A professional web application project deployed on AWS, designed to showcase the
 
 ## 🚀 Project Overview
 
-The NextWork Web Project is a Java-based web application (utilizing JSP) that serves as a foundational project for cloud-native development. This repository tracks the evolution of the application as it gets developed, dockerized, and eventually deployed using automated pipelines on Amazon Web Services (AWS).
+The NextWork Web Project is a Java-based web application (utilizing JSP) that serves as a foundational project for cloud-native development. This repository tracks the evolution of the application as it gets developed, dockerized, and eventually deployed using automated pipelines on Amazon Web Services (AWS)..
 
 ### Goals
 - **Web Development**: Build a robust, responsive web application.
